@@ -2,15 +2,6 @@
 
 Welcome to the Bathing BAPE website! This website is dedicated to Bathing BAPE, a popular internet meme character that has taken the online world by storm. Embrace uniqueness and ride the wave of creativity with this visually captivating and informative website.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [How to Use](#how-to-use)
-- [Tokenomics](#tokenomics)
-- [Roadmap](#roadmap)
-- [Contact](#contact)
-- [Disclaimer](#disclaimer)
-
 ## Introduction
 
 Bathing BAPE the Frog is a renowned cartoon character that has become a beloved internet meme, often referred to as the "sad frog meme." This character, originating from the online cartoon Boy's Club in 2005, has gained widespread recognition and usage. This website serves as a hub for all things related to Bathing BAPE, providing information about its history, how to buy, tokenomics, and the roadmap ahead.
@@ -42,31 +33,6 @@ Bathing BAPE the Frog is a renowned cartoon character that has become a beloved 
 - No Taxes, No Bullshit. It's that simple.
 - 93.1% of the tokens are in the liquidity pool, with LP tokens burnt and the contract renounced.
 - The remaining 6.9% is held in a multi-sig wallet for future use.
-
-## Roadmap
-
-The roadmap for Bathing BAPE is divided into phases:
-
-### Phase 1: Meme
-
-- Launch
-- CoinGecko/Coinmarketcap Listings
-- 1,000+ Holders
-- Trending on Twitter with memetic power
-
-### Phase 2: Vibe and HODL
-
-- Community Partnerships BAPE Times digital newsletter
-- Formation of token-gated Discord group, BAPE Palace
-- CEX Listings 10,000+ holders
-
-### Phase 3: Meme Takeover
-
-- BAPE merch
-- BAPE Academy
-- BAPE Tools
-- T1 Exchange Listings 100,000+ holders
-- Meme Takeover
 
 ## Contact
 
