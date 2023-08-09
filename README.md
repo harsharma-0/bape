@@ -74,7 +74,7 @@ The roadmap for Bathing BAPE is divided into phases:
 
 You can find us on social media:
 
-- [Twitter](#https://twitter.com/HarshSh73669655)
+- [Twitter](# https://twitter.com/HarshSh73669655)
 - [Instagram](#https://www.instagram.com/harsharma_25/)
 - [Telegram](#https://t.me/harsharma63)
 
