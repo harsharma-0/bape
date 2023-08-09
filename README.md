@@ -1,7 +1,5 @@
 # Bathing BAPE Website
 
-![Bathing BAPE Logo](Images/logo.png)
-
 Welcome to the Bathing BAPE website! This website is dedicated to Bathing BAPE, a popular internet meme character that has taken the online world by storm. Embrace uniqueness and ride the wave of creativity with this visually captivating and informative website.
 
 ## Table of Contents
