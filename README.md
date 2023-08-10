@@ -40,7 +40,7 @@ You can find us on social media:
 
 - [Twitter](https://twitter.com/HarshSh73669655)
 - [Instagram](https://www.instagram.com/harsharma_25/)
-- [Telegram](https://t.me/harsharma63)
+- [Telegram](https://telegram.me/harsharma63)
 
 For inquiries or support, please contact us through our social media channels.
 
